@@ -2,7 +2,7 @@
 
 - Atualmente sou professor de Física para o ensino médio, lecionado as disciplinas de física e ***pensamento computacional***
   também leciono uma discplina de programação e games para os estudantes dos anos iniciias (fundamental)
-- Sou pesquisador na Área de termodinâmica, especial  em pesquisas a sobre propriedades da água (H2O).
+- Sou pesquisador na Área de termodinâmica, especial  em pesquisas  sobre propriedades da água (H2O).
 - Participo de um projeto de robôtica junto ao ensino médio.
 
 Devido as minhas atividades, formações e interesses, **recentemente tenho estudado**:

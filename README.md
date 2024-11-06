@@ -1,4 +1,5 @@
 <h1 align="center">Olá!! (Hi there)</h1>
+<p>Principais interesses relacionados a trabalhos concetados as áreas de ciências de dados e inteligência artifical</p>
 
 - Atualmente sou professor de Física, pesquisador e graduando de Ciências de Dados e Inteligência Artificial (CDIA).
 - Sou pesquisador na Área de termodinâmica, especial  em pesquisas  sobre propriedades da água (H2O).

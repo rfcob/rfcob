@@ -1,11 +1,10 @@
 <h1 align="center">Olá!! (Hi there), Meu nome é Rafael Cobo</h1>
 
-- Atualmente sou professor de Física para o ensino médio, lecionado as disciplinas de física e ***pensamento computacional***
-  também leciono uma discplina de programação e games para os estudantes dos anos iniciias (fundamental)
+- Atualmente sou professor de Física, pesquisador e graduando de Ciências de Dados e Inteligência Artificial (CDIA).
 - Sou pesquisador na Área de termodinâmica, especial  em pesquisas  sobre propriedades da água (H2O).
 - Participo de um projeto de robôtica junto ao ensino médio.
 
-Devido as minhas atividades, formações e interesses, **recentemente tenho estudado**:
+**Formações e interesses:**
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)

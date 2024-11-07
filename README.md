@@ -1,9 +1,10 @@
 <h1 align="center">Olá!! (Hi there)</h1>
-<p>Principais interesses relacionados a trabalhos concetados as áreas de ciências de dados e inteligência artifical</p>
+<p>Principais interesses relacionados a trabalhos relacionados às áreas de ciências de dados e inteligência artifical bem como física</p>
 
 - Atualmente sou professor de Física, pesquisador e graduando de Ciências de Dados e Inteligência Artificial (CDIA).
-- Sou pesquisador na Área de termodinâmica, especial  em pesquisas  sobre propriedades da água (H2O).
-- Participo de um projeto de robôtica junto ao ensino médio.
+- Estou em busca de novas oportunidades no mercado, com foco na área de Ciências de Dados e Inteligência Artificial (CDIA).
+- Sou pesquisador na área de termodinâmica, especial  em pesquisas  sobre propriedades da água (H2O).
+- Participo/ei de um projetos  em robôtica nível ensino médio.
 
 **Formações e interesses:**
 

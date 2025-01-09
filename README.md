@@ -6,7 +6,7 @@
 - Sou pesquisador na área de termodinâmica, especial  em pesquisas  sobre propriedades da água (H2O).
 - Participo/ei de um projetos  em robôtica nível ensino médio.
 
-**Formações e interesses:**
+**Habilidades e interesses:**
 
 ![py](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
